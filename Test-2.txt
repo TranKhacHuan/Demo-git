@@ -1,2 +1,7 @@
 This is just a dummy text !!!!! 
+<<<<<<< HEAD
 update somthing .........👌👌👌👌👌👌
+=======
+add somthing .........👌👌👌👌👌👌
+update somthing
+>>>>>>> e88f49b5003931b8771d10f08644a9809ac62c1b
